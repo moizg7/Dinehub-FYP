@@ -66,7 +66,7 @@ All services run as Docker containers defined in `docker-compose.yml` and are ho
 
 ---
 
-## Running locally
+## Running locally (please request for access)
 
 ```bash
 # Clone the repo
@@ -98,8 +98,7 @@ The app will be available at `http://localhost:3000`.
 
 ## API docs
 
-All endpoints are documented and tested via Postman. See the [Postman workspace](https://www.postman.com) for full request/response examples across auth, orders, vendor, and admin routes.
-
+All endpoints are documented and tested via Postman.
 ---
 
 *Final Year Project — BS Computer Engineering, GIKI · 2025*
